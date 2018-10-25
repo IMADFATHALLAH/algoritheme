@@ -8,5 +8,6 @@
     lire ( la valeure du pris HT )
     fin
     exercice 2
-     var TTC,HT,TVA 
+     var TTC,HT,TVA q
+   
 
