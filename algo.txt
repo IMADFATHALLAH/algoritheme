@@ -1,0 +1,12 @@
+  var l,h,A
+   Début 
+    ecrire ( saisih valeur de longeurs )
+    lire (L)
+    écrire ("saisir la valeur de hauteur ")
+    lire ( H ) 
+    s= (L * H )
+    lire ( la valeure du pris HT )
+    fin
+    exercice 2
+     var TTC,HT,TVA 
+
